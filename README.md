@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on improving my coding skills through small projects<br>🤝 I’m looking to collaborate on beginner-friendly projects<br>🌱 I’m currently learning programming and GitHub<br>💬 Ask me about the projects I’m building and what I’m learning<br>⚡ Fun fact: I enjoy turning ideas into small projects
+# 💫 Hi 👋, I'm KAILASH RAMAWAT
+**AI & Data Science Student | Aspiring Developer | Learning by Building Projects**
+
+Email Me 👉 ✉️ **kailashramawat223@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on improving my coding skills through small projects
+- 👯 **I’m looking to collaborate on beginner-friendly projects
+- 🌱 **I’m currently learning programming and GitHub
+- 💬 **Ask me about the projects I’m building and what I’m learning
+- 📫 **How to reach me:** kailashramawat223@gmail.com
+- 😄 **Pronouns:** KAILASH RAMAWAT
+- ⚡ **Fun fact: I enjoy turning ideas into small projects
 
 
 ## 🌐 Socials:
